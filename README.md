@@ -1,0 +1,6 @@
+- Install Files 🗄️
+- Extract Files 🗃️
+- Open Folder 📂
+- And Run setup.bat 🏃‍♂️
+- Next Run launch.bat 🏃
+- Thank you for using my app ! ❤️
