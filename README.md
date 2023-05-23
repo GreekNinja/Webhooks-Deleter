@@ -3,5 +3,5 @@
 - Open Folder 📂
 - And Run setup.bat 🏃‍♂️
 - Next Run launch.bat 🏃
-- And Install Python : https://www.python.org/
+- And Install Python : https://www.python.org/downloads/
 -  Thank you for using my app ! ❤️
